@@ -4,7 +4,7 @@ def main():
     name = input('What is the main character called?')
     job = input('What is their job?')
     
-    print(f'Here is the story:')
+    print('Here is the story:')
     print(f'Once upon a time there was {name}, who was {job}.')
     print(f'On the way to work, {name} reflected on life.')
     print(f'Perhaps {name} will not be {job} forever.')
