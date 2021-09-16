@@ -9,6 +9,7 @@ def main():
     print("On the way to work, " + name + " reflected on life.")
     print("Perhaps " + name + " will not be " + job + " forever.")
     
+    #flake8 doesn't understand f-strings for some reason...
     
     
 
