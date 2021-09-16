@@ -5,7 +5,7 @@ def main():
     job = input('What is their job?')
     
     print('Here is the story:')
-    print("Once upon a time there was " + name + " who was " + job + ".")
+    print("Once upon a time there was " + name + ", who was " + job + ".")
     print(f"On the way to work, {name} reflected on life.")
     print(f"Perhaps {name} will not be {job} forever.")
     
